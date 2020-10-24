@@ -1,0 +1,38 @@
+[
+  {
+    "id_product": 123,
+    "product_name": "i5-9600k",
+    "price": 17484,
+    "img": "img/products/i5-9600k.webp"
+  },
+  {
+    "id_product": 454,
+    "product_name": "Материнская плата MSI Z390-A PRO",
+    "price": 8710,
+    "img": "img/products/MSI Z390-A PRO.webp"
+  },
+  {
+    "id_product": 455,
+    "product_name": "Монитор AOC C27G1 27\"",
+    "price": 20190,
+    "img": "img/products/Монитор AOC C27G1 27\".webp"
+  },
+  {
+    "id_product": 456,
+    "product_name": "MSI GeForce RTX 2080 Ti",
+    "price": 20190,
+    "img": "img/products/Видеокарта MSI GeForce RTX 2080 Ti 1350MHz PCI-E 3.0 11264MB 14000MHz 352 bit 3xDisplayPort HDMI HDCP GAMING X TRIO .webp"
+  },
+  {
+    "id_product": 457,
+    "product_name": "Кулер для процессора Deepcool REDHAT",
+    "price": 20190,
+    "img": "img/products/Кулер для процессора Deepcool REDHAT.webp"
+  },
+  {
+    "id_product": 458,
+    "product_name": "Блок питания be quiet! System Power 9 700W",
+    "price": 20190,
+    "img": "img/products/Блок питания be quiet! System Power 9 700W.webp"
+  }
+]
